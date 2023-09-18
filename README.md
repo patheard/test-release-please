@@ -1,2 +1,2 @@
 # test-release-please
-Testing the Google Release Please action with PATs and GitHub app tokens.
+Testing the Google Release Please action with GitHub app tokens.
