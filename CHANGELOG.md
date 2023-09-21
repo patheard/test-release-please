@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/patheard/test-release-please/compare/v1.1.2...v1.1.3) (2023-09-21)
+
+
+### Documentation
+
+* updating the readme ([#5](https://github.com/patheard/test-release-please/issues/5)) ([0f8e8d4](https://github.com/patheard/test-release-please/commit/0f8e8d40769bac0c51fa15228ca421a9243275cb))
+
 ## [1.1.2](https://github.com/patheard/test-release-please/compare/v1.1.1...v1.1.2) (2023-09-19)
 
 
